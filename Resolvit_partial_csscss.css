@@ -1,0 +1,54 @@
+.portal-header .right{
+    float: right;
+ }  
+.portal-header .menu{
+  float: left;
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0;
+} 
+li{
+  display: inline-block;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+} 
+li a {
+  color:#fff; 
+  line-height: 30px; 
+
+} 
+.portal-header .social_media {
+  float: left;
+  margin: 0 0 0 10px;
+  padding: 0;
+  list-style: none;
+} 
+.portal-header .social_media li{
+  float: left;
+  width: 25px;
+  height: 25px;
+  margin: 0 0 0 8px;
+} 
+
+.portal-header .social_media li a{
+  display: block;
+  overflow: hidden;
+  height: 100%;
+  text-indent: 999em;
+  background-size: 25px 25px;
+} 
+
+
+.facebook a{
+  background-image: url(https://www.resolvit.com/wp-content/themes/resolvit-Jul-2020/images/header-upper-social_media-li-facebook-a-bkg.png);
+  }  
+.linkedin a{
+  background-image: url(https://www.resolvit.com/wp-content/themes/resolvit-Jul-2020/images/header-upper-social_media-li-linkedin-a-bkg.png);
+  } 
+.twitter a{
+  background-image: url(https://www.resolvit.com/wp-content/themes/resolvit-Jul-2020/images/header-upper-social_media-li-twitter-a-bkg.png);
+  } 
+.glassdoor a{
+  background-image: url(https://www.resolvit.com/wp-content/themes/resolvit-Jul-2020/images/header-upper-social_media-li-glassdoor-a-bkg.png);
+  }
